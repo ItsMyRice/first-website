@@ -7,7 +7,7 @@ body {
   font-family: "Segoe UI";
 }
 .cover-image {
-  background-image: url("/hunterx/hunters.jpg");
+  background-image: url("./hunterx/hunters.jpg");
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -59,7 +59,7 @@ input {
   justify-content: center;
   padding: 10px 50px;
   margin: 40px;
-  background-image: url("/hunterx/home4.jpg");
+  background-image: url("./hunterx/home4.jpg");
   background-repeat: no-repeat;
   background-position: top right;
   height: 900px;
@@ -157,7 +157,7 @@ h4 {
 }
 
 .characters {
-  background-image: url("/hunterx/long.jpg");
+  background-image: url("./hunterx/long.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: right top;
@@ -302,7 +302,7 @@ h6 {
 }
 
 .movies {
-  background-image: url("/hunterx/coover7.jpg");
+  background-image: url("./hunterx/coover7.jpg");
   background-repeat: no-repeat;
   background-position: top right;
   background-size: 500px 1590px;
